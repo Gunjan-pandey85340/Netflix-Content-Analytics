@@ -28,12 +28,6 @@ Built a premium Netflix-themed content analytics dashboard to explore 8,800+ tit
 - Separated multi-value `listed_in` (genres) and `country` columns into normalized bridge tables (`Genre.csv`, `Country.csv`).
 - Standardized `date_added` to proper Date format and extracted Year, Month Number, and Month Name.
 
-## 📁 Dataset
-- **Source:** [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- **Tables:** 3 (Titles, Genre, Country — Star Schema)
-- **Rows:** Titles: 8,807 | Genre: 19,323 | Country: 10,845
 
-## 📞 Contact
-- **LinkedIn:** [Parag Varshney](https://www.linkedin.com/in/parag-varshney-15a62b231/)
-- **GitHub:** [VarshneyParag](https://github.com/VarshneyParag)
-- **Email:** paragvarshney9678@gmail.com
+
+
